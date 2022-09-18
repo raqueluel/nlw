@@ -53,6 +53,7 @@ main {
 
     display: grid;
     gap: 24px;
+    margin-top: 32px;
 }
 
 section {
@@ -83,6 +84,7 @@ section p {
 
 section ul {
     display: flex;
+    flex-wrap: wrap;
     gap: 16px;
     margin-top: 24px;
     
@@ -92,8 +94,9 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
-.games-list img {
+.game-list img {
     width: 90px;
+    height: 120px;
     border-radius: 8px;
 }
 
