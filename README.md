@@ -10,9 +10,9 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 ## Tecnologias
 
--HTML
--CSS
--Git e Github
+-HTML <br>
+-CSS <br>
+-Git e Github <br>
 
 ## Contato
 
